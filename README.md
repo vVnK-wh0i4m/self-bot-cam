@@ -148,14 +148,18 @@ vVnK là Discord Self Bot được xây dựng bằng Python và thư viện `di
 
 ## 📥 Cài đặt trên máy tính
 
-### Bước 1: Clone repository
+### Bước 1: Tải code
+
+- [📥 **Tải file ZIP**](https://github.com/vVnK-wh0i4m/self-bot-cam/archive/refs/heads/main.zip)
+- Hoặc clone: `git clone https://github.com/vVnK-wh0i4m/self-bot-cam.git`
+
+### Bước 2: Giải nén và vào thư mục
 
 ```bash
-git clone https://github.com/vVnK-wh0i4m/self-bot-cam.git
 cd self-bot-cam
 ```
 
-### Bước 2: Cài đặt thư viện
+### Bước 3: Cài đặt thư viện
 
 **Cách 1: Dùng file tự động cài đặt (khuyến nghị)**
 
