@@ -183,19 +183,25 @@ pip install -r requirements.txt
 
 ### Bước 4: Cấu hình
 
+Mở file `tokens.txt` và điền User Token:
+
+```
+MTQ2ODIzOTA1NzM1MDk1NTA5OQ.G1xxxxx.xxxxxxxxxxxxxxxxxxxxxxxx
+```
+
 Mở file `config/config.json` và điền thông tin:
 
 ```json
 {
-    "token": "TOKEN_CỦA_BẠN",
+    "token": "ĐIỀN_USER_TOKEN_VÀO_ĐÂY",
     "prefix": ".",
-    "sniper_webhook": "WEBHOOK_URL"
+    "sniper_webhook": "ĐIỀN_WEBHOOK_URL_VÀO_ĐÂY"
 }
 ```
 
-#### Cách lấy Token Discord
-
 > ⚠️ **CẢNH BÁO:** KHÔNG BAO GIỜ chia sẻ token. Token cho phép truy cập hoàn toàn vào tài khoản.
+
+#### Cách lấy Token Discord
 
 1. Mở Discord trên trình duyệt (https://discord.com/app)
 2. Nhấn `F12` để mở Developer Tools
