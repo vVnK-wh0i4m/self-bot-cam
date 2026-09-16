@@ -7,8 +7,11 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Version](https://img.shields.io/badge/Version-5.0.5-orange)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![Download](https://img.shields.io/badge/Download-Zip-blue?style=for-the-badge&logo=github)
 
 **Discord Self Bot đa năng với đầy đủ tính năng spam, quản lý, giải trí và nhiều hơn nữa.**
+
+[📥 **Tải code (.zip)**](https://github.com/vVnK-wh0i4m/self-bot-cam/archive/refs/heads/main.zip) • [📦 **Clone repo**](https://github.com/vVnK-wh0i4m/self-bot-cam.git)
 
 </div>
 
