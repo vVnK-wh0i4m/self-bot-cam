@@ -1,0 +1,11 @@
+discord.py-self
+requests
+pynacl
+python-dateutil
+instaloader
+psutil
+pytz
+protobuf==3.20.3
+pyinstaller
+colour
+aiohttp

@@ -1,0 +1,25 @@
+# Token và cấu hình nhạy cảm
+config/config.json
+datoken.txt
+
+# File tạm
+trash/
+selfbot.zip
+
+# Nhạc
+music/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+*.spec
+
+# IDE
+.vscode/
+.idea/
