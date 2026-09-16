@@ -1,5 +1,6 @@
 # Token và cấu hình nhạy cảm
 config/config.json
+tokens.txt
 datoken.txt
 
 # File tạm
